@@ -82,7 +82,7 @@ allBuyBtns.forEach(item => {
     }
  
   
-{  //  show mabrooook popup
+{  //  show popup
     const popUp = document.createElement("div")
 body.append(popUp)
 popUp.classList.add("done-pop-up")
